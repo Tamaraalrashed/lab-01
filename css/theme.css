@@ -1,0 +1,76 @@
+@media screen and (min-width:768px) {
+    #a {
+     background-color: #9e9d89; 
+
+    }
+    #b {
+       background-color: #e4d3cf;
+    }
+    #c {
+       background-color: #e2bcb7;
+    }
+    #d {
+      background-color: #b67162;
+    }
+
+ #e{
+    background-color: #9e9d89;
+       
+      }
+      #f{
+        background-color: #e4d3cf 
+      }
+      #g{
+        background-color: #e2bcb7;
+      }
+      #h{
+        background-color: #b67162;
+      } 
+  
+    #i{
+        background-color: #9e9d89;
+    }
+}
+
+
+@media screen and (min-width:480px) and (max-width:767px)  {
+    #a {
+        
+        background-color: violet;
+      }
+    #b {
+       
+        background-color: #dddddd;
+    }
+    #c {
+       
+        background-color: #ffaec0;
+    }
+    #d {
+        
+        background-color: #f25287;
+    }
+    #e{
+    
+        background-color:#f2b4b4;
+    }
+
+    #f{
+        background-color: #dddddd; 
+    }
+    #g{
+       
+        background-color: #f25287;
+    }
+    #h{
+        background-color: violet  
+    }
+
+
+    #i{
+        
+        background-color: #ffaec0;
+        
+    }
+
+}
