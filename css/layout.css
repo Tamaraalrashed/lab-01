@@ -21,12 +21,12 @@ div{
     #c {
         max-width: 380px;
         height: 200px;
-        float:right;
+        float:left;
     }
     #d {
         max-width: 380px;
         height: 200px;
-        float:left;
+        float:right;
     }
  
     #e, #f, #g, #h{
